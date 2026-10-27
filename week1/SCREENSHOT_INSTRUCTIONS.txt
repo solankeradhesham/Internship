@@ -1,0 +1,1 @@
+Run personal_intro.py, enter sample answers, and capture a screenshot of the terminal output. Save it as screenshot.png in this folder before submitting.\n
