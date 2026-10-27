@@ -1,0 +1,1 @@
+Save your actual terminal screenshots in this folder after running grade_calculator.py.

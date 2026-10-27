@@ -1,0 +1,46 @@
+Student Grade Calculator — Test Cases
+
+1. Input marks: 100
+   Expected grade: A
+
+2. Input marks: 90
+   Expected grade: A
+
+3. Input marks: 89
+   Expected grade: B
+
+4. Input marks: 80
+   Expected grade: B
+
+5. Input marks: 79
+   Expected grade: C
+
+6. Input marks: 70
+   Expected grade: C
+
+7. Input marks: 69
+   Expected grade: D
+
+8. Input marks: 60
+   Expected grade: D
+
+9. Input marks: 59
+   Expected grade: F
+
+10. Input marks: 0
+    Expected grade: F
+
+11. Input marks: -1
+    Expected behavior: Reject input and ask again.
+
+12. Input marks: 101
+    Expected behavior: Reject input and ask again.
+
+13. Input marks: hello
+    Expected behavior: Show a numeric-input error and ask again.
+
+14. Input marks: 72.5
+    Expected grade: C
+
+15. Empty student name
+    Expected behavior: Ask for the name again.
