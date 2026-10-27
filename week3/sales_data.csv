@@ -1,0 +1,17 @@
+Date,Product,Quantity,Unit_Price,Total_Sales,Region
+2026-01-03,Notebook,10.0,50,500.0,West
+2026-01-04,Pen,25.0,10,250.0,North
+2026-01-05,Backpack,3.0,800,2400.0,South
+2026-01-06,Notebook,8.0,50,400.0,West
+2026-01-07,Water Bottle,5.0,250,1250.0,East
+2026-01-08,Pen,30.0,10,300.0,
+2026-01-09,Backpack,2.0,800,1600.0,South
+2026-01-10,Notebook,12.0,50,600.0,West
+2026-01-11,,4.0,250,1000.0,East
+2026-01-12,Pen,20.0,10,200.0,North
+2026-01-13,Backpack,4.0,800,3200.0,South
+2026-01-14,Notebook,7.0,50,350.0,West
+2026-01-15,Water Bottle,6.0,250,1500.0,East
+2026-01-16,Pen,15.0,10,150.0,North
+2026-01-17,Notebook,,50,,West
+2026-01-04,Pen,25.0,10,250.0,North
