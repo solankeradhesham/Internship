@@ -1,0 +1,50 @@
+order_date,category,product,city,quantity,unit_price,discount
+2026-01-04,Electronics,Headphones,Pune,2,1500,0
+2026-01-08,Clothing,T-Shirt,Mumbai,5,500,50
+2026-01-12,Home,Desk Lamp,Nashik,3,850,0
+2026-01-17,Electronics,Keyboard,Pune,2,2200,100
+2026-02-03,Clothing,Jeans,Mumbai,2,1800,0
+2026-02-10,Home,Bedsheet,Nagpur,4,1200,100
+2026-02-15,Electronics,Mouse,Pune,6,700,0
+2026-02-22,Clothing,T-Shirt,Nashik,4,500,0
+2026-03-02,Home,Desk Lamp,Mumbai,2,850,0
+2026-03-07,Electronics,Headphones,Nagpur,3,1500,150
+2026-03-13,Clothing,Jeans,Pune,3,1800,200
+2026-03-19,Home,Bedsheet,Nashik,2,1200,0
+2026-04-01,Electronics,Keyboard,Mumbai,3,2200,0
+2026-04-05,Clothing,T-Shirt,Nagpur,6,500,100
+2026-04-11,Home,Desk Lamp,Pune,4,850,50
+2026-04-20,Electronics,Mouse,Mumbai,5,700,0
+2026-05-03,Clothing,Jeans,Nashik,2,1800,0
+2026-05-09,Home,Bedsheet,Mumbai,5,1200,250
+2026-05-14,Electronics,Headphones,Pune,4,1500,0
+2026-05-26,Clothing,T-Shirt,Nagpur,3,500,0
+2026-06-02,Home,Desk Lamp,Nashik,3,850,0
+2026-06-08,Electronics,Keyboard,Pune,1,2200,0
+2026-06-16,Clothing,Jeans,Mumbai,4,1800,300
+2026-06-24,Home,Bedsheet,Nagpur,3,1200,0
+2026-06-29,Electronics,Mouse,Nashik,7,700,100
+2026-07-04,Clothing,T-Shirt,Pune,4,500,0
+2026-07-10,Home,Desk Lamp,Mumbai,5,850,0
+2026-07-18,Electronics,Headphones,Nagpur,2,1500,0
+2026-07-23,Clothing,Jeans,Pune,3,1800,0
+2026-08-02,Home,Bedsheet,Nashik,4,1200,100
+2026-08-08,Electronics,Keyboard,Mumbai,2,2200,0
+2026-08-16,Clothing,T-Shirt,Mumbai,5,500,0
+2026-08-22,Home,Desk Lamp,Pune,2,850,0
+2026-09-01,Electronics,Mouse,Nagpur,8,700,200
+2026-09-07,Clothing,Jeans,Nashik,2,1800,0
+2026-09-14,Home,Bedsheet,Mumbai,3,1200,0
+2026-09-21,Electronics,Headphones,Pune,3,1500,0
+2026-10-02,Clothing,T-Shirt,Nagpur,4,500,0
+2026-10-11,Home,Desk Lamp,Nashik,3,850,0
+2026-10-18,Electronics,Keyboard,Pune,2,2200,100
+2026-11-03,Clothing,Jeans,Mumbai,3,1800,0
+2026-11-12,Home,Bedsheet,Nagpur,5,1200,150
+2026-11-20,Electronics,Mouse,Pune,4,700,0
+2026-12-04,Clothing,T-Shirt,Nashik,6,500,100
+2026-12-12,Home,Desk Lamp,Mumbai,4,850,0
+2026-12-21,Electronics,Headphones,Nagpur,5,1500,250
+2026-12-27,Clothing,Jeans,Pune,2,1800,0
+2026-03-13,Clothing,Jeans,Pune,3,1800,200
+2026-05-31,Electronics,Mouse,Pune,,700,0
